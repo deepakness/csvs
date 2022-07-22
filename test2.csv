@@ -2,5 +2,13 @@
 Book 1,Author 1,Fiction,1900,Yes
 Book 2,Author 3,Business,2000,No
 Book 3,Author 2,Crime,3000,No
-Book 4,Author 2,Business,1999,Yes
-New book,New author,Fiction,2022,Yes
+Book 4,Author 3,Business,1999,Yes
+Book 5,Author 4,Fiction,2022,Yes
+Book 6,Author 5,Fiction,2257.1,Yes
+Book 7,Author 6,Business,2281.4,No
+Book 8,Author 7,Crime,2305.7,No
+Book 9,Author 8,Business,2330,Yes
+Book 10,Author 9,Fiction,2354.3,Yes
+Book 11,Author 10,Fiction,2378.6,Yes
+Book 12,Author 11,Business,2402.9,No
+Book 13,Author 12,Crime,2427.2,No
